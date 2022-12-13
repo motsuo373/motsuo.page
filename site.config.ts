@@ -9,17 +9,27 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
+<<<<<<< Updated upstream
   name: 'Motsuo notion page',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Motsuo',
+=======
+  name: 'Motsuo',
+  domain: 'motsuo.vercel.app',
+  author: 'Sumiya Tamotsu',
+>>>>>>> Stashed changes
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Motsuoの備忘録blog',
 
   // social usernames (optional)
   twitter: 'motsuo373',
   github: 'motsuo373',
   // linkedin: 'fisch2',
+<<<<<<< Updated upstream
+=======
+  // mastodon: '#', // optional mastodon profile URL, provides link verification
+>>>>>>> Stashed changes
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 

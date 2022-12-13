@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Intro
 
 このサイトは nextjs-notion-starter-kit をベースに作成した個人用のwebサイトです。
@@ -9,6 +10,19 @@ https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 基盤は nextjs-notion-startet-kit を用いていますが、下記の機能を追加しています
 
 - あとでかく。
+=======
+# Motsuo page
+
+このサイトは Next.js Notion Starter Kit を用いて作成しております。
+
+詳細は Fork 元を確認してください。
+
+## License
+
+MIT © [Travis Fischer](https://transitivebullsh.it)
+
+Support my open source work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a> -->
+>>>>>>> Stashed changes
 
 <!-- <p align="center">
   <a href="https://transitivebullsh.it/nextjs-notion-starter-kit">
@@ -195,4 +209,4 @@ See the [contribution guide](contributing.md) and join our amazing list of [cont
 
 MIT © [Travis Fischer](https://transitivebullsh.it)
 
-Support my open source work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
+Support my open source work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a> -->

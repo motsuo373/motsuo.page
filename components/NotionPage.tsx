@@ -13,6 +13,7 @@ import TweetEmbed from 'react-tweet-embed'
 // core notion renderer
 import { NotionRenderer } from 'react-notion-x'
 
+<<<<<<< Updated upstream
 // utils
 import { getBlockTitle, getPageProperty, formatDate } from 'notion-utils'
 import { mapPageUrl, getCanonicalPageUrl } from 'lib/map-page-url'
@@ -23,6 +24,10 @@ import * as types from 'lib/types'
 import * as config from 'lib/config'
 
 // components
+=======
+import { Footer } from './Footer'
+// import { GitHubShareButton } from './GitHubShareButton'
+>>>>>>> Stashed changes
 import { Loading } from './Loading'
 import { Page404 } from './Page404'
 import { PageHead } from './PageHead'
@@ -284,6 +289,11 @@ export const NotionPage: React.FC<types.PageProps> = ({
         pageAside={pageAside}
         footer={footer}
       />
+<<<<<<< Updated upstream
+=======
+
+      {/* <GitHubShareButton /> */}
+>>>>>>> Stashed changes
     </>
   )
 }
